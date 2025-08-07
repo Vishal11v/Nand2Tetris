@@ -1,4 +1,3 @@
-# Nand2Tetris
 # Nand2Tetris - Building a Computer from Scratch
 
 ## Overview
